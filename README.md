@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fakhrul Fauzi
+![Header](./assets/p1sangmas-image-name.png)
 
 > Breathing life into pixels, one line of code at a time.
 
