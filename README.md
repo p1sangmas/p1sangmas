@@ -14,7 +14,7 @@ When I'm not training ML models or debugging code, you'll find me designing webs
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,swift,js,cpp,cs,html,css,nodejs,flask,tensorflow,firebase,github,apple,linux,windows" />
+<img src="https://skillicons.dev/icons?i=py,swift,js,cpp,cs,html,css,nodejs,docker,flask,tensorflow,firebase,github,apple,linux,windows" />
 
 ## 📈 GitHub Stats
 
