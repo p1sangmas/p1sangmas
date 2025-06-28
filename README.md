@@ -29,7 +29,7 @@ When I'm not training ML models or debugging code, you'll find me designing webs
 
 ## 🔎 Employer?
 > [!IMPORTANT]  
-> <a href="./assets/Resume_Fakhrul_Fauzi_May25.pdf" download>Download my resume</a>
+> <a href="./assets/Resume_Fakhrul_Fauzi.pdf" download>Download my resume</a>
 
 ---
 
